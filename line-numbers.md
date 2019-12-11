@@ -6,11 +6,11 @@
 #### 6
 #### 7 isabel is here
 #### 8
-<<<<<<< HEAD
-#### 9 github is really good
-=======
-#### 9 github is awsome
->>>>>>> cc2efdc4195259be4cc707487e915f3c1d77280a
+
+#### 9 github is really awesome
+
+
+
 #### 10
 #### 11
 #### 12
